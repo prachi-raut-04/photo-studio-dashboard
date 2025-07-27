@@ -6,7 +6,7 @@ This project is a **Photo Studio web interface** designed with a sleek sidebar n
 
 ## 📸 Screenshot
 
-![Photo Studio UI](Screenshot%20(167).png)
+![Photo Studio UI](Photo.png)
 
 ---
 

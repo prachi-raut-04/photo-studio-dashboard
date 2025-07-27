@@ -33,10 +33,3 @@ This project is a **Photo Studio web interface** designed with a sleek sidebar n
 - **HTML5** – structure
 - **CSS3** – layout & styling
 
----
-
-## 📸 Screenshot
-
-![Photo Studio UI](Screenshot%20(167).png)
-
-
